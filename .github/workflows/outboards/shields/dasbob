@@ -3,5 +3,5 @@
 
 outboard_repository=KarolTx/zmk-config-dasbob
 outboard_ref=main
-outboard_from=config/boards/shields/dasbob
-outboard_to=config/boards/shields/dasbob
+outboard_from=boards/shields/dasbob
+outboard_to=boards/shields/dasbob
